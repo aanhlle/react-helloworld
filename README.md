@@ -1,3 +1,3 @@
-#React-HelloWorld!
-##Expense tracker with React
+# React-HelloWorld!
+### Expense tracker with React
 
